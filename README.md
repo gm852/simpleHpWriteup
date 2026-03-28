@@ -52,9 +52,11 @@ This is a writeup of a honeypot test and the steps i took and what i learned abo
     
 - Geographic origin of attacks
     - Romania
+    - Russia
     - Ukraine
     - United States
-    - Romania
+    - China
     - Mongolia
+
 
     <img width="1632" height="861" alt="image" src="https://github.com/user-attachments/assets/f575cf72-f0ae-4ecd-b5e7-b89f73d7dc54" />
